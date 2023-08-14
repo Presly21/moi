@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "858284531867",
+    "project_id": "authflutter-120b6",
+    "storage_bucket": "authflutter-120b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858284531867:android:ebc9a59969569902b7663e",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858284531867-0cocja7almiekekjdar6ed3tpc0s3t7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce",
+            "certificate_hash": "3810845997fc4695da2f4c5c7d345276e91b68d7"
+          }
+        },
+        {
+          "client_id": "858284531867-md0gc2ehg8jmrp77fa42j14v1hege3h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8_m5kfoCcf3OXPJKl6NA0Zpo1Uee3iY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858284531867-md0gc2ehg8jmrp77fa42j14v1hege3h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
