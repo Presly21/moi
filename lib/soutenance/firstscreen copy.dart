@@ -1,18 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 import 'onboardingscreen.dart';
-
-
-
-
-class FirstScreen extends StatefulWidget {
-  const FirstScreen({super.key});
+class First extends StatefulWidget {
+  const First({super.key});
 
   @override
-  State<FirstScreen> createState() => _FirstScreenState();
+  State<First> createState() => _FirstState();
 }
 
-class _FirstScreenState extends State<FirstScreen>
+class _FirstState extends State<First>
     with TickerProviderStateMixin {
   late final AnimationController _controller;
   @override

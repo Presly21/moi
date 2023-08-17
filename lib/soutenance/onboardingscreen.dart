@@ -1,8 +1,7 @@
 
 import 'package:flutter/material.dart';
+import 'package:monprojet/soutenance/phoneAuthPage.dart';
 import 'contents_model.dart';
-import 'essaye.dart';
-
 class Onboarding extends StatefulWidget {
   const Onboarding({super.key});
 
@@ -80,7 +79,7 @@ class _OnboardingState extends State<Onboarding> {
           onTap: () {
             if (currentindex == contents.length - 1) {
               Navigator.push(
-                  context, MaterialPageRoute(builder: (_) => Homepage()));
+                  context, MaterialPageRoute(builder: (_) => PhoneAuthPage()));
             }
           },
           child: Container(

@@ -52,7 +52,7 @@ dependencies:
   lottie: ^2.5.0
   otp_text_field: ^1.1.3
   firebase_auth: ^4.7.2
-
+  # flutterwave: ^1.0.3
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -89,6 +89,7 @@ flutter:
     - images/onb5.jpeg
     - images/onb6.jpeg
     - images/authp.jpg
+    - images/auth2.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
